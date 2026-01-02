@@ -1,8 +1,0 @@
-tet-lixi-project/
-├── index.html          # Main HTML file
-├── style.css          # Styling and animations
-├── script.js          # Main JavaScript logic
-├── firework.js        # Canvas fireworks system
-├── music/
-│   └── tet-music.mp3  # Tet music (needs to be added)
-└── images/            # Image assets directory
